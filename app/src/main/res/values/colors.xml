@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#14d4c0</color>
+    <color name="colorPrimaryDark">#14d4c0</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="toast_bg">#dddfe0</color>
+    <color name="drawer_item_bg_n">#fffff9</color>
+    <color name="drawer_item_bg_p">#e8e8e8</color>
+    <color name="drawer_header_text">#2c2c2c</color>
+    <color name="fab_bg">#FF4081</color>
+    <color name="colorBackground">#EEEEEE</color>
+    <color name="colorCard">#FFFFFF</color>
+    <color name="news_rea">#898989</color>
+    <color name="news_unread">#000000</color>
+    <color name="black_bg">#d0000000</color>
+    <color name="bottom_text">#a9a9a9</color>
+    <color name="comment_text">#5b5d5c</color>
+    <color name="comment_reply">#9ba4a3</color>
+    <color name="comment_btn">#bfbfbf</color>
+    <color name="comment_line">#dddddd</color>
+    <color name="comment_at">#5d8698</color>
+    <color name="bottom_shadow">#6e000000</color>
+    <color name="colorText">#2C2C2C</color>
+    <color name="girl_deatil_background">#181921</color>
+</resources>
