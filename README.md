@@ -5,7 +5,7 @@
 
 ##Screenshorts
 
-![](https://github.com/Luosunce/FunNews/blob/master/screenshots/image.jpg)
+![image](https://github.com/Luosunce/FunNews/blob/master/screenshots/image.jpg)
 
 
 ##Points
